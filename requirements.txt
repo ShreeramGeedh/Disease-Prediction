@@ -1,7 +1,6 @@
 flask
 pymongo[srv]
 gunicorn
-os
 pandas
 numpy
 csv
