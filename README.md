@@ -6,5 +6,5 @@ In this project I used Decision Tree Classifier
 And getting very great accuracy 
 
 ## Check Out the live Demo:-  
-diseasepredictionems.herokuapp.com/
+https://diseasepredictionems.herokuapp.com/
 
