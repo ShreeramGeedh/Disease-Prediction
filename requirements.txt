@@ -5,7 +5,6 @@ pandas
 numpy
 scikit-learn
 sklearn
-DecisionTreeClassifier
 train_test_split
 Jinja2
 MarkupSafe
