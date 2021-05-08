@@ -3,7 +3,6 @@ pymongo[srv]
 gunicorn
 pandas
 numpy
-csv
 scikit-learn
 sklearn
 DecisionTreeClassifier
