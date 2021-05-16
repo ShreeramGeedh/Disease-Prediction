@@ -5,6 +5,10 @@ In this project I used Decision Tree Classifier
 
 And getting very great accuracy 
 
+# Dataset I used in this project:
+https://www.kaggle.com/sahilmishra0012/symptomchecker
+
+
 ## Check Out the live Demo:-  
 https://diseasepredictionems.herokuapp.com/
 
